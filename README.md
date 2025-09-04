@@ -8,10 +8,6 @@ The terminal connects you directly to the same AI agent that powers [`terminal.z
 
 # Getting Started
 
-## Environment Variables
-
-Contact us to get the necessary environment variables and put that in your .env file.
-
 ## Installing
 
 Then
@@ -22,9 +18,31 @@ bun install
 bun dev
 ```
 
-# Bug Report
+# Features
 
-Feel free to submit issues if you find any.
+```
+bun dev
+```
+
+This starts a conversation with history. This is the vanilla AI chat experience everyone is used to.
+
+**Predefined Message Without Prompting**
+
+```
+bun dev -m "Your message"
+```
+
+This feature sends a message every time you hit refresh. Great for debugging using the same message.
+
+```
+bun dev -m "Your messge here"
+```
+
+**Ask Mode**
+
+`bun dev -a`
+
+Ask mode sends message without conversation history.
 
 ## License
 This project is licensed under the [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
