@@ -1,15 +1,30 @@
 {
-  "name": "zai-cli",
-  "module": "index.ts",
-  "type": "module",
-  "private": true,
-  "devDependencies": {
-    "@types/bun": "latest"
-  },
-  "peerDependencies": {
-    "typescript": "^5"
-  },
-  "dependencies": {
-    "@opencode-ai/sdk": "^0.6.4"
-  }
+      "name": "@zai/cli",
+      "version": "1.0.0",
+      "private": true,
+      "scripts": {
+            "dev": "bun run --watch src/index.ts",
+            "start": "bun run src/index.ts"
+      },
+      "dependencies": {
+            "@langchain/core": "^0.3.19",
+            "ai": "^5.0.30",
+            "chalk": "^5.4.1",
+            "commander": "^14.0.0",
+            "date-fns": "^4.1.0",
+            "dotenv": "^17.2.2",
+            "lodash": "^4.17.21",
+            "prompts": "^2.4.2",
+            "yocto-spinner": "^0.1.0",
+            "zod": "^3.24.1"
+      },
+      "devDependencies": {
+            "@types/bun": "^1.2.14",
+            "@types/cors": "^2.8.17",
+            "@types/lodash": "^4.17.18",
+            "@types/node": "^20.0.0",
+            "@types/prompts": "^2.4.9",
+            "tsx": "^4.7.0",
+            "typescript": "^5.3.0"
+      }
 }

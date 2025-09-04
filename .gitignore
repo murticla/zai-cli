@@ -1,34 +1,50 @@
-# dependencies (bun install)
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
 node_modules
-
-# output
-out
-dist
-*.tgz
-
-# code coverage
+.pnp
+.pnp.js
+bin
+# testing
 coverage
-*.lcov
 
-# logs
-logs
-_.log
-report.[0-9]_.[0-9]_.[0-9]_.[0-9]_.json
+# next.js
+.next/
+out/
+build
 
-# dotenv environment variable files
-.env
+.terminal_history
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# local env files
+.env.local
 .env.development.local
 .env.test.local
 .env.production.local
-.env.local
 
-# caches
-.eslintcache
-.cache
-*.tsbuildinfo
+# turbo
+.turbo
 
-# IntelliJ based IDEs
-.idea
+.env
+.env*.local
 
-# Finder (MacOS) folder config
-.DS_Store
+
+
+tsconfig.tsbuildinfo
+
+dist
+.vercel
+
+k6-results.csv
+k6-results-sorted.csv
+
+.terminal_history
